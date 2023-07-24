@@ -1,0 +1,15 @@
+C:\Users\osabd\source\repos\InheritenceLecture\InheritenceLecture\bin\Debug\net6.0\InheritenceLecture.exe
+C:\Users\osabd\source\repos\InheritenceLecture\InheritenceLecture\bin\Debug\net6.0\InheritenceLecture.deps.json
+C:\Users\osabd\source\repos\InheritenceLecture\InheritenceLecture\bin\Debug\net6.0\InheritenceLecture.runtimeconfig.json
+C:\Users\osabd\source\repos\InheritenceLecture\InheritenceLecture\bin\Debug\net6.0\InheritenceLecture.dll
+C:\Users\osabd\source\repos\InheritenceLecture\InheritenceLecture\bin\Debug\net6.0\InheritenceLecture.pdb
+C:\Users\osabd\source\repos\InheritenceLecture\InheritenceLecture\obj\Debug\net6.0\InheritenceLecture.csproj.AssemblyReference.cache
+C:\Users\osabd\source\repos\InheritenceLecture\InheritenceLecture\obj\Debug\net6.0\InheritenceLecture.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\osabd\source\repos\InheritenceLecture\InheritenceLecture\obj\Debug\net6.0\InheritenceLecture.AssemblyInfoInputs.cache
+C:\Users\osabd\source\repos\InheritenceLecture\InheritenceLecture\obj\Debug\net6.0\InheritenceLecture.AssemblyInfo.cs
+C:\Users\osabd\source\repos\InheritenceLecture\InheritenceLecture\obj\Debug\net6.0\InheritenceLecture.csproj.CoreCompileInputs.cache
+C:\Users\osabd\source\repos\InheritenceLecture\InheritenceLecture\obj\Debug\net6.0\InheritenceLecture.dll
+C:\Users\osabd\source\repos\InheritenceLecture\InheritenceLecture\obj\Debug\net6.0\refint\InheritenceLecture.dll
+C:\Users\osabd\source\repos\InheritenceLecture\InheritenceLecture\obj\Debug\net6.0\InheritenceLecture.pdb
+C:\Users\osabd\source\repos\InheritenceLecture\InheritenceLecture\obj\Debug\net6.0\InheritenceLecture.genruntimeconfig.cache
+C:\Users\osabd\source\repos\InheritenceLecture\InheritenceLecture\obj\Debug\net6.0\ref\InheritenceLecture.dll
